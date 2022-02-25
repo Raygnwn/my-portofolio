@@ -1,0 +1,3 @@
+1. Membuat web sederhana dengan html, css dan javascript,
+2. Belajar front end dan membuat web sederhana dengan framework
+3. Hosting web sederhana
